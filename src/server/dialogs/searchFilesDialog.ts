@@ -3,7 +3,6 @@ import * as builder from 'botbuilder';
 import * as restify from 'restify';
 import { AuthHelper } from '../helpers/authHelper';
 import { HttpHelper } from '../helpers/httpHelper';
-import { SentimentHelper } from '../helpers/sentimentHelper';
 
 export class searchFilesDialog implements IDialog {
     constructor(private authHelper: AuthHelper) {
