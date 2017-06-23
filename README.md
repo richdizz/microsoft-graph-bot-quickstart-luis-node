@@ -1,3 +1,5 @@
+**I am fully aware I left sensitive information in the .env file. This was done on purpose so the project could be easly cloned and immediately run. There is nothing in there you can do anything melicous with...I think :)**
+
 # Microsoft Graph Bot Quickstart w/ LUIS (NodeJS)
 This repository holds a quickstart template for building a bot that connects to the Microsoft Graph and leverages [LUIS](https://www.luis.ai/) for intents. A more simple quickstart for building bots with the Microsoft Graph **without LUIS** can be found [HERE](https://github.com/richdizz/microsoft-graph-bot-quickstart). Please follow the steps below to use this project.
 
